@@ -7,7 +7,7 @@ Nome: Rafael Xavier Oliveira
 Matricula: 893046
 
 ## Tela de inspeção com navegador
-![alt text](inspeção-1.png)
+![alt text](inspeção.png)
 
 ## Tela de projeto no Replit
-![alt text](replit-1.png)
+![alt text](replit.png)
